@@ -1,0 +1,4 @@
+sweather
+========
+
+Weather dashboard widget
